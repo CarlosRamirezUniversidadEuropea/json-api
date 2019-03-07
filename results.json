@@ -1,0 +1,51 @@
+[ {
+  "temperature" : 10.93,
+  "name" : "Provincia de Madrid",
+  "latitude" : 40.4022,
+  "longitude" : -3.7103
+}, {
+  "temperature" : 10.93,
+  "name" : "Usera",
+  "latitude" : 40.3887,
+  "longitude" : -3.7004
+}, {
+  "temperature" : 10.93,
+  "name" : "Entrevías",
+  "latitude" : 40.4,
+  "longitude" : -3.6834
+}, {
+  "temperature" : 10.69,
+  "name" : "Madrid",
+  "latitude" : 40.4165,
+  "longitude" : -3.7026
+}, {
+  "temperature" : 10.69,
+  "name" : "Sol",
+  "latitude" : 40.4166,
+  "longitude" : -3.7033
+}, {
+  "temperature" : 10.69,
+  "name" : "City Center",
+  "latitude" : 40.4183,
+  "longitude" : -3.7028
+}, {
+  "temperature" : 10.66,
+  "name" : "Comunidad de Madrid",
+  "latitude" : 40.4253,
+  "longitude" : -3.6907
+}, {
+  "temperature" : 10.93,
+  "name" : "Bilbao",
+  "latitude" : 40.4291,
+  "longitude" : -3.7012
+}, {
+  "temperature" : 10.93,
+  "name" : "Moratalaz",
+  "latitude" : 40.4167,
+  "longitude" : -3.65
+}, {
+  "temperature" : 10.93,
+  "name" : "Pueblo Nuevo-Ventas",
+  "latitude" : 40.4352,
+  "longitude" : -3.6496
+} ]
